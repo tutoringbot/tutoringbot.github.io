@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <title>W3.CSS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <head>
+        <style>
+        h1 {text-align: center;
+            font-family: 'Satisfy', cursive;
+            font-size: 70px
+          }
+        p {text-align: center;
+            font-size: 20px
+          }
+        p2 {text-align: center;
+          font-size: 20px
+        }
+        div {text-align: center;}
+        div2 {text-align: center;
+          display: block;
+          margin-left:900px;
+          margin-right:200px;
+        }
+
+        </style>
+</head>
+<body>
+
+  <div class="w3-container w3-teal">
+    <h1 style="font-family:'Satisfy'", cursive;>Tutoring Bot</font></h1>
+  </div>
+
+<p></p>
+<p></p>
+
+  <style>
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  </style>
+
+    <img src="https://cdn.discordapp.com/attachments/713533647252357183/713841351489486938/tutoringbot.png" alt="Profile" class="center">
+
+<p></p>
+
+    <div class="w3-container">
+      <p2><em>For Success in Your Academic Endeavours</em></p2>
+    </div>
+
+<p></p>
+
+    <div2 class="w3-container w3-teal">
+      <p><a href="https://discord.gg/ZWfmwaF">Support Server</a></p>
+    </div2>
+
+      <p1>helloo</p1>
+
+    <div class="w3-container w3-teal">
+      <p>Math</p>
+    </div>
+
+      <p1>helloo</p1>
+
+    <div class="w3-container w3-teal">
+      <p>Science</p>
+    </div>
+
+      <p1>helloo</p1>
+
+</body>
+</html>
